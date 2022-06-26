@@ -1,1 +1,1 @@
-{"name": "Test map", "width": 2048, "height": 1024, "player_start": [50, 600], "speed": 4, "background": false, "level": "1.png", "foreground": false}
+{"name": "Test map", "width": 2048, "height": 1024, "player_start": [50, 600], "speed": 4, "background": False, "level": "1.png", "foreground": False}
