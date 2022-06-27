@@ -1,0 +1,1 @@
+{"name": "Test map", "width": 2048, "height": 1024, "player_start": [50, 600], "speed": 4, "background": "none", "level": "1.png", "foreground": "none", "coinobjs": "[(480, 720, 32, 32), (530, 720, 32, 32), (580, 720, 32, 32), (630, 720, 32, 32)]"}
